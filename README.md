@@ -39,16 +39,16 @@ it is a complete warranty management system for products. Administrators can cre
 - **Localization (i18n)** – Multi-language support
 
 ## 🖼️ Demo Screenshots
-
-### 🔧 Admin Dashboard
-![Admin Dashboard](./screenshots/dashboard.png)
-
-### 📦 QR Code on Product
-![QR Code](./screenshots/qr-code.png)
-
-### 📝 Customer Registration Page
-![Client Page](./screenshots/client-register.png)
-
+<img src="./public/image0.jpg" alt="screenShot" width="70" height="70"/>
+<img src="./public/image1.jpg" alt="screenShot" width="70" height="70"/>
+<img src="./public/image2.jpg" alt="screenShot" width="70" height="70"/>
+<img src="./public/image3.jpg" alt="screenShot" width="70" height="70"/>
+<img src="./public/image4.jpg" alt="screenShot" width="70" height="70"/>
+<img src="./public/image5.jpg" alt="screenShot" width="70" height="70"/>
+<img src="./public/image6.jpg" alt="screenShot" width="70" height="70"/>
+<img src="./public/image7.jpg" alt="screenShot" width="70" height="70"/>
+<img src="./public/image8.jpg" alt="screenShot" width="70" height="70"/>
+<img src="./public/image9.jpg" alt="screenShot" width="70" height="70"/>
 
 ### Backend Structure
 ├── src/
