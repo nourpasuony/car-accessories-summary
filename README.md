@@ -39,16 +39,19 @@ it is a complete warranty management system for products. Administrators can cre
 - **Localization (i18n)** – Multi-language support
 
 ## 🖼️ Demo Screenshots
-<img src="./public/image0.jpg" alt="screenShot" width="100" height="100"/>
-<img src="./public/image1.jpg" alt="screenShot" width="100" height="100"/>
-<img src="./public/image2.jpg" alt="screenShot" width="100" height="100"/>
-<img src="./public/image3.jpg" alt="screenShot" width="100" height="100"/>
-<img src="./public/image4.jpg" alt="screenShot" width="100" height="100"/>
-<img src="./public/image5.jpg" alt="screenShot" width="100" height="100"/>
-<img src="./public/image6.jpg" alt="screenShot" width="100" height="100"/>
-<img src="./public/image7.jpg" alt="screenShot" width="100" height="100"/>
-<img src="./public/image8.jpg" alt="screenShot" width="100" height="100"/>
-<img src="./public/image9.jpg" alt="screenShot" width="100" height="100"/>
+
+<div style="display: flex; flex-wrap: nowrap; overflow-x: auto; gap: 10px;">
+  <img src="./public/image0.jpg" alt="screenShot" width="200" height="200"/>
+  <img src="./public/image1.jpg" alt="screenShot" width="200" height="200"/>
+  <img src="./public/image2.jpg" alt="screenShot" width="200" height="200"/>
+  <img src="./public/image3.jpg" alt="screenShot" width="200" height="200"/>
+  <img src="./public/image4.jpg" alt="screenShot" width="200" height="200"/>
+  <img src="./public/image5.jpg" alt="screenShot" width="200" height="200"/>
+  <img src="./public/image6.jpg" alt="screenShot" width="200" height="200"/>
+  <img src="./public/image7.jpg" alt="screenShot" width="200" height="200"/>
+  <img src="./public/image8.jpg" alt="screenShot" width="200" height="200"/>
+  <img src="./public/image9.jpg" alt="screenShot" width="200" height="200"/>
+</div>
 
 ### Backend Structure
 ├── src/
